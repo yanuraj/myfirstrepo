@@ -2,4 +2,4 @@
 
 This is my first Git repo
 <br>
-Author - Anu R.
+Author - Anu (Rathore)
